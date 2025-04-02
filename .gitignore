@@ -1,0 +1,3 @@
+*.zip
+filtered_data/*.csv
+filtered_data 
